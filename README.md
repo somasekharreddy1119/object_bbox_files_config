@@ -1,1 +1,1 @@
-# object_detec_files_config
+# object_bbox_config_files
